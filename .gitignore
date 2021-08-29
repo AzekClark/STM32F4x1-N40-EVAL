@@ -1,3 +1,10 @@
+# Altium Designer
+**/History
+**/__Previews
+**/Logs
+/Documents/Outputs
+*.log
+
 # Prerequisites
 *.d
 

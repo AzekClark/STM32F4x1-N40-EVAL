@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Connectors-Side.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Connectors-Side.SchDoc|FileName=MCU-Debug.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Connectors-Side.SchDoc|FileName=MCU-IO.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Connectors-Side.SchDoc|FileName=MCU-Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connectors-Side.SchDoc|FileName=Power Supply.SchDoc|SheetNumber=1
