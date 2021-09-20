@@ -1,7 +1,14 @@
-Record=TopLevelDocument|FileName=Connector-Side-1.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Connector-Side-1.SchDoc|FileName=Connector-Side-2.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Connector-Side-1.SchDoc|FileName=Connector-USB.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=Connector-Side-1.SchDoc|FileName=MCU-Debug.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Connector-Side-1.SchDoc|FileName=MCU-IO.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Connector-Side-1.SchDoc|FileName=MCU-Power.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Connector-Side-1.SchDoc|FileName=Power Supply.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Connector-SDCard.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=Connector-SDCard.SchDoc|FileName=Connector-Side-1.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Connector-SDCard.SchDoc|FileName=Connector-Side-2.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=Connector-SDCard.SchDoc|FileName=Connector-USB.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=Connector-SDCard.SchDoc|FileName=GPIO-Debug.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Connector-SDCard.SchDoc|FileName=GPIO-I2C.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Connector-SDCard.SchDoc|FileName=GPIO-SDIO.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Connector-SDCard.SchDoc|FileName=GPIO-USB.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Connector-SDCard.SchDoc|FileName=LED&Button.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=Connector-SDCard.SchDoc|FileName=MCU-Debug.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Connector-SDCard.SchDoc|FileName=MCU-IO.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Connector-SDCard.SchDoc|FileName=MCU-Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connector-SDCard.SchDoc|FileName=Power Supply.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Connector-SDCard.SchDoc|FileName=USB-C-Control.SchDoc|SheetNumber=9
