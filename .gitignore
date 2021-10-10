@@ -4,6 +4,7 @@
 **/Logs
 /Documents/Outputs
 *.log
+*.PrjPcbStructure
 
 # Prerequisites
 *.d

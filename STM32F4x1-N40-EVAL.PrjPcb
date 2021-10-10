@@ -178,7 +178,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DMHECXCM
 
 [Document9]
-DocumentPath=USB-C-Control.SchDoc
+DocumentPath=Schematics\USB-C-Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -195,6 +195,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ECJEYYVX
 
 [Document10]
+DocumentPath=Schematics\I2C-EEPROM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=16
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AOGPEILP
+
+[Document11]
 DocumentPath=Schematics\I2C-Temp-sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -211,7 +228,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUSNUDEO
 
-[Document11]
+[Document12]
 DocumentPath=Schematics\I2C-Motion-sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -228,7 +245,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKFSHMOO
 
-[Document12]
+[Document13]
+DocumentPath=Schematics\I2C-Magnetometer-sensor.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=17
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WMLWXCQN
+
+[Document14]
 DocumentPath=Schematics\Connector-Side-1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -245,7 +279,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EBAKUGWK
 
-[Document13]
+[Document15]
 DocumentPath=Schematics\Connector-Side-2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -262,7 +296,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZWEPXNCD
 
-[Document14]
+[Document16]
 DocumentPath=Schematics\Connector-USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -279,7 +313,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ISNKCQMF
 
-[Document15]
+[Document17]
 DocumentPath=Schematics\Connector-SDCard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -296,7 +330,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DMSXUCXN
 
-[Document16]
+[Document18]
 DocumentPath=Schematics\LED&Button.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -313,7 +347,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HJDFSYGU
 
-[Document17]
+[Document19]
 DocumentPath=PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -330,8 +364,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGVGVVUW
 
-[Document18]
+[Document20]
 DocumentPath=Documents\Jobs\Gerber.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document21]
+DocumentPath=Documents\Jobs\Documentation.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -351,37 +402,105 @@ DocumentUniqueId=
 DocumentPath=Documents\Outputs\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.G2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.RUL
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\Librarys\Source\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=ProjectAuthor
-Value=Clark A.
+Name=ProjectTitle
+Value=Eval board for STM32F4x1 MCU's in 48-UFQFPN package
 
 [Parameter2]
-Name=ProjectCompanyName
-Value=Azek Clark © 2021
-
-[Parameter3]
-Name=ProjectDate
-Value=29.08.2021
-
-[Parameter4]
-Name=ProjectNumber
-Value=STM32F4X1-N40-EVAL
-
-[Parameter5]
-Name=ProjectRevision
-Value=0.1.4
-
-[Parameter6]
 Name=ProjectShortDate
 Value=2021.08
 
+[Parameter3]
+Name=ProjectRevision
+Value=0.1.5
+
+[Parameter4]
+Name=ProjectNumber
+Value=STM32F411-N40-EVAL
+
+[Parameter5]
+Name=ProjectDate
+Value=29.08.2021
+
+[Parameter6]
+Name=ProjectCompanyName
+Value=Azek Clark © 2021
+
 [Parameter7]
-Name=ProjectTitle
-Value=Eval board for STM32F4x1 MCU's in 48-UFQFPN package
+Name=ProjectAuthor
+Value=Clark A.
 
 [Configuration1]
 Name=Sources
@@ -505,7 +624,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Samsung M2070 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -722,6 +841,11 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=GOSTBOM
+OutputName9=GOST BOM
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -935,36 +1059,6 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
