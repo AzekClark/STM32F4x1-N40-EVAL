@@ -402,74 +402,6 @@ DocumentUniqueId=
 DocumentPath=Documents\Outputs\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
-[GeneratedDocument2]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.G1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.G2
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.REP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Documents\Outputs\Gerber\STM32F4X1-N40-EVAL-0.1.5-gerber\STM32F4X1-N40-EVAL-0.1.5.RUL
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=..\Librarys\Source\*.*
 IncludeSubFolders=1
@@ -484,7 +416,7 @@ Value=2021.08
 
 [Parameter3]
 Name=ProjectRevision
-Value=0.1.5
+Value=0.1.5.1
 
 [Parameter4]
 Name=ProjectNumber
@@ -1059,6 +991,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
